@@ -1,0 +1,22 @@
+-> Sei
+    - Conceitos basicos de HTML e CSS
+
+
+-> Quero saber
+    - Flexbox
+    - Grid Layout
+    - Media Queries
+    - Unidades flexiveis
+    - Transições
+    - Animações
+
+
+-> Aprendi
+    - Tags essenciais, titulos e paragrafos
+    - Sintaxe, selectors e propriedades basicas (cor, fonte, tamanho)
+    - Formatacao de texto e listas
+    - Margens, bordas, padding, altura e largura
+    - Links e imagens
+    - Audio e video
+    - Display e Positioning
+    - Classes, IDs, pseudo-classes e pseudo-elementos
