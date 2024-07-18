@@ -3,20 +3,24 @@
 
 
 -> Quero saber
-    - Flexbox
-    - Grid Layout
-    - Media Queries
-    - Unidades flexiveis
-    - Transições
-    - Animações
+    - Desenvolvimento mobile
+    - Rede
+    - Administração de sistemas
+    - Engenharia reversa
 
 
 -> Aprendi
     - Tags essenciais, titulos e paragrafos
-    - Sintaxe, selectors e propriedades basicas (cor, fonte, tamanho)
+    - Sintaxe, selectors e propriedades (cor, fonte, tamanho)
     - Formatacao de texto e listas
     - Margens, bordas, padding, altura e largura
     - Links e imagens
     - Audio e video
-    - Display e Positioning
+    - Display e positioning
     - Classes, IDs, pseudo-classes e pseudo-elementos
+    - Flexbox
+    - Grid layout
+    - Media queries
+    - Unidades flexiveis
+    - Transições
+    - Animações
